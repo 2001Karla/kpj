@@ -1,0 +1,52 @@
+.r4 table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 5px;
+    width: 70%;
+}
+   
+.r1 img{
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.r2 h1, .r3 h1, .r4 h1, .r5 h1, .r6 h1{
+    text-align: center;
+    font-size: 36pt;
+    color:rgb(4, 72, 4);
+    
+}
+
+.r5, .r3{
+    text-align: center;
+}
+
+.pozadina{
+    display: flex;
+    background-color:#ebfeec;
+    margin: 10px 10px;
+    border: solid 1px rgb(4, 72, 4);
+}
+
+div{
+    padding:20px;
+}
+
+.video{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.r2 p, .r6 p{
+  text-align: justify;
+}
+
+.r5 div{
+    padding: 5px;
+}
+
+.r7 a, .r7 a:hover,.r7 a:visited{
+    text-decoration: none;
+    color: black;
+}

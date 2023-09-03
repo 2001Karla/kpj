@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="172.80185mm"
+   height="21.344433mm"
+   viewBox="0 0 172.80185 21.344433"
+   version="1.1"
+   id="svg3293"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3295"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="279.2509"
+     inkscape:cy="226.84827"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3290">
+    <linearGradient
+       id="linearGradient4322"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#006200;stop-opacity:1;"
+         offset="0"
+         id="stop4320" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4262"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop4260" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4204"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop4202" />
+    </linearGradient>
+    <rect
+       x="148.93382"
+       y="209.61057"
+       width="579.18707"
+       height="286.83551"
+       id="rect4142" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4262"
+       id="linearGradient4326"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4322"
+       id="linearGradient4328"
+       gradientUnits="userSpaceOnUse"
+       x1="21.180588"
+       y1="99.372978"
+       x2="193.98244"
+       y2="99.372978" />
+  </defs>
+  <g
+     inkscape:label="Sloj 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.180588,-88.700765)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4140"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect4142);display:inline;fill:#008000;fill-opacity:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;fill:url(#linearGradient4326);fill-opacity:1;stroke-width:0.264583"
+       x="55.094593"
+       y="80.270271"
+       id="text4200"><tspan
+         sodipodi:role="line"
+         id="tspan4198"
+         style="fill:url(#linearGradient4326);fill-opacity:1;stroke-width:0.264583"
+         x="55.094593"
+         y="80.270271" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Monotype Corsiva';-inkscape-font-specification:'Monotype Corsiva';white-space:pre;inline-size:178.275;fill:url(#linearGradient4328);fill-opacity:1;stroke-width:0.264583"
+       x="18.972971"
+       y="106.17567"
+       id="text4268"><tspan
+         x="18.972971"
+         y="106.17567"
+         id="tspan11430">Konoba Puli Jurića</tspan></text>
+  </g>
+</svg>
